@@ -1,0 +1,14 @@
+{
+  "name": "chatGpt_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Simer0996/chatGpt_server.git",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "openai": "^3.1.0"
+  }
+}
